@@ -1,12 +1,19 @@
 Esta es la historia de Freddy Vega
 
-Freddy Vega tiene 32 años y nació en colombia
 
 master 1
 master 2
+=======
+Mañana nos enfocaremos en su vida laboral
+=======
+Freddy Vega tiene 32 años y nació en Colombia
+
+Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
+>>>>>>> 5e7f11bbd41187257b727dee297c99eeb747641c
 
 Experimento 1
 
 Experimento 2
 
 Mañana nos enfocaremos en su vida laboral
+>>>>>>> 5e7f11bbd41187257b727dee297c99eeb747641c
